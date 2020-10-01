@@ -22,6 +22,9 @@ namespace DemoGitHub
             int i = 10;
             int number = 15;
             int number1 = 23;
+            //detta är ändringar som en annan utvecklare gör och pushar upp
+            
+            int kolla = 23;
         }
     }
 }
